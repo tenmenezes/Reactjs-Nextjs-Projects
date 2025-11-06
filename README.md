@@ -4,8 +4,8 @@
 
 📚 Repositório de estudos práticos com **React.js** e **Next.js**, explorando desde os fundamentos até projetos completos e modernos.
 
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-14.2.0-black?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.1.0-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-16.0.1-black?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E=16.0.0-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/author-tenmenezes-blueviolet)](https://github.com/tenmenezes)
@@ -456,11 +456,6 @@ A proposta é dominar os principais pilares do ecossistema moderno **Front-end c
 
 ---
 
-yaml
-Copiar código
-
----
-
 ## ⚙️ Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado:
@@ -481,38 +476,37 @@ Antes de começar, certifique-se de ter instalado:
    ```
 Entre em um módulo
 
-```bash
-Copiar código
-cd Next-js/3_estilizacao
-Instale as dependências
-```
-
-```bash
-Copiar código
-npm install
-# ou
-yarn install
-Execute o servidor
-```
-
-```bash
-Copiar código
-npm run dev
-# ou
-yarn dev
-Acesse o projeto no navegador
-```
-
-```arduino
-Copiar código
-http://localhost:3000
-```
+   ```bash
+   cd Next-js/3_estilizacao
+   Instale as dependências
+   ```
+   
+   ```bash
+   npm install
+   # ou
+   yarn install
+   Execute o servidor
+   ```
+   
+   ```bash
+   npm run dev
+   # ou
+   yarn dev
+   Acesse o projeto no navegador
+   ```
+   
+   ```bash
+   http://localhost:3000
+   ```
+---
 
 🧱 Estrutura dos Projetos
 
+---
+
 Cada subpasta dentro de Next-js/ representa uma etapa de aprendizado, com foco em conceitos específicos.
 
-Etapa	Tópico	Descrição
+Etapa	Tópico Descrição
 
 1_introducao/	Introdução	Setup e primeiros componentes Next.js
 2_transicao_pagina/	Navegação	Rotas, Links e Transições
@@ -543,7 +537,7 @@ Tailwind CSS
 
 Framer Motion
 
-Lucide Icons (Reat)
+Lucide Icons (React)
 
 
 🚀 Funcionalidades:
@@ -562,9 +556,8 @@ Interface moderna e responsiva
 Quer contribuir? Fique à vontade!
 Siga o fluxo padrão de contribuição:
 
-```bash
-Copiar código
 # Faça um fork
+```
 git fork https://github.com/tenmenezes/Reactjs-Nextjs-Projects.git
 ```
 
@@ -591,7 +584,6 @@ Este projeto está licenciado sob a Licença MIT.
 Consulte o arquivo LICENSE para mais detalhes.
 
 <div align="center">
-👨‍💻 Desenvolvido com 💙 por tenmenezes
+👨‍💻 Desenvolvido com 💙 por tenmenezes <br/>
 ⭐ Se este repositório te ajudou, considere deixar uma estrela!
-
 </div>
