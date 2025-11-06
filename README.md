@@ -469,44 +469,42 @@ Antes de começar, certifique-se de ter instalado:
 
 ## ▶️ Como Utilizar
 
+---
+
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/tenmenezes/Reactjs-Nextjs-Projects.git
    cd Reactjs-Nextjs-Projects
    ```
-Entre em um módulo
-
+2. **Entre em um módulo**
    ```bash
    cd Next-js/3_estilizacao
-   Instale as dependências
    ```
-   
+3. **Instale as dependências**
    ```bash
    npm install
    # ou
    yarn install
-   Execute o servidor
    ```
-   
+4. **Execute o servidor**
    ```bash
    npm run dev
    # ou
    yarn dev
-   Acesse o projeto no navegador
    ```
-   
+5. **Acesse o projeto no navegador**
    ```bash
    http://localhost:3000
    ```
 ---
 
-🧱 Estrutura dos Projetos
+## 🧱 Estrutura dos Projetos
 
 ---
 
 Cada subpasta dentro de Next-js/ representa uma etapa de aprendizado, com foco em conceitos específicos.
 
-Etapa	Tópico Descrição
+## Etapa	Tópico Descrição
 
 1_introducao/	Introdução	Setup e primeiros componentes Next.js
 2_transicao_pagina/	Navegação	Rotas, Links e Transições
@@ -518,7 +516,10 @@ Etapa	Tópico Descrição
 🖤 Destaque: Projeto Nextgram
 O Nextgram é o projeto final do repositório — uma mini rede social inspirada no Instagram.
 
-🧩 Tecnologias principais:
+---
+
+## 🧩 Tecnologias principais
+
 Next.js 16+
 
 React Hooks
@@ -539,8 +540,10 @@ Framer Motion
 
 Lucide Icons (React)
 
+---
 
-🚀 Funcionalidades:
+## 🚀 Funcionalidades
+
 Criação e autenticação de usuário
 
 Upload e exibição de posts
@@ -549,12 +552,19 @@ Feed com atualizações dinâmicas
 
 Interface moderna e responsiva
 
-🔗 Deploy (em breve)
+---
+
+## 🔗 Deploy (em breve)
 ➡️ Acesse o Nextgram online (em desenvolvimento)
 
-🤝 Contribuições
-Quer contribuir? Fique à vontade!
-Siga o fluxo padrão de contribuição:
+
+## 🤝 Contribuições
+
+> Quer contribuir? Fique à vontade!
+
+
+## Siga o fluxo padrão de contribuição:
+
 
 # Faça um fork
 ```
