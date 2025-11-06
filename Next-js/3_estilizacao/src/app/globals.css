@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* em todas as págiinas do projeto, 
+   tera o h1 com esta estilização 
+*/
+
+h1 {
+  font-size: 100px;
+  color: aquamarine;
+}
